@@ -1,0 +1,1 @@
+Created income statement Power BI dashboard on Microsoft's yearly financial dataset that highlights the three key performance indicators (KPIs) of net income, total revenue, and operating income. Imported the data into Power BI, performed data cleaning and transformation and created table by adding KPI's and charts to the dashboard.
